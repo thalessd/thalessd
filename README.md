@@ -5,7 +5,7 @@
 
 ### What I'm working on 👨‍💻
 🌱  &nbsp; I’m currently learning Flutter, Clean Architecture, NestJs, React Native <br>
-💬  &nbsp; Ask me about Web Development, HTTP, HTML, CSS, Javascript, Node.js, React, React Native, Flutter, Android, Docker, Linux <br>
+💬  &nbsp; Ask me about Web Development, HTML, CSS, Javascript, TypeScript, Node.js, React, React Native, Flutter, Android, Docker, Linux <br>
 
 ### 📫 How to reach me? 🌎
 [![Linkedin: Thales Carvalho](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalessd/)](https://www.linkedin.com/in/thalessd/)
