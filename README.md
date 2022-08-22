@@ -1,6 +1,6 @@
 ## Thales Carvalho
 
-🖥  &nbsp; Full Stack Developer at X-Apps | Software House <br>
+🖥  &nbsp; Thech Lead at Ten Meetings <br>
 🇧🇷  &nbsp; Living in Piauí, Brazil
 
 ### What I'm working on 👨‍💻
