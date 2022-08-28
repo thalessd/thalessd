@@ -1,6 +1,6 @@
 ## Thales Carvalho
 
-🖥  &nbsp; Thech Lead at Ten Meetings <br>
+🖥  &nbsp; Tech Lead at Ten Meetings <br>
 🇧🇷  &nbsp; Living in Piauí, Brazil
 
 ### What I'm working on 👨‍💻
@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me? 🌎
 [![Linkedin: Thales Carvalho](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalessd/)](https://www.linkedin.com/in/thalessd/)
-[![Site](https://img.shields.io/website?label=devdes.io&style=flat-square&url=https%3A%2F%2Fdevdes.io)](https://devdes.io)
+[![Site](https://img.shields.io/website?label=tcndev.com&style=flat-square&url=https%3A%2F%2Ftcndev.com)](https://tcndev.com)
 
 
 ## ⚡ Technologies
