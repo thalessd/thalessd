@@ -77,12 +77,3 @@ Technologies that I enjoy using, or that have helped me a lot!
 ---
 ![Thales GitHub Stats](https://github-readme-stats.vercel.app/api?username=thalessd&count_private=true&theme=onedark)
 
----
-
-    I do not think there is any thrill that can go through 
-    the human heart like that felt by the inventor as he sees
-    some creation of the brain unfolding to success... 
-    such emotions make a man forget food, sleep,
-    friends, love, everything.
-    
-    Nikola Tesla
